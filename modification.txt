@@ -1,0 +1,12 @@
+EnergyPLAN version
+698
+input_cap_chp3_el=
+0
+input_cap_hp3_el=
+46
+input_RES1_capacity=
+87
+input_RES2_capacity=
+63
+input_RES3_capacity=
+5

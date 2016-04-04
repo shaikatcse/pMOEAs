@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="jmetal/|jmetal/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EnergyPLANDomainKnowledgeEA"/>
+	<classpathentry kind="lib" path="C:/Users/mahbub/Documents/GitHub/pMOEAs/external library/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mahbub/Documents/GitHub/pMOEAs/commons-collections-3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

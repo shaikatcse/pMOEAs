@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-04-04T14:13:00</date>
+  <millis>1459771980875</millis>
+  <sequence>0</sequence>
+  <logger>ares.fbk.eu.pMOEA.jmetal</logger>
+  <level>INFO</level>
+  <class>ares.fbk.eu.pMOEA.jmetal.metaheuristics.nsgaII.pNSGAII_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total execution time: 160ms</message>
+</record>
+<record>
+  <date>2016-04-04T14:13:00</date>
+  <millis>1459771980909</millis>
+  <sequence>1</sequence>
+  <logger>ares.fbk.eu.pMOEA.jmetal</logger>
+  <level>INFO</level>
+  <class>ares.fbk.eu.pMOEA.jmetal.metaheuristics.nsgaII.pNSGAII_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Variables values have been writen to file VAR</message>
+</record>
+<record>
+  <date>2016-04-04T14:13:00</date>
+  <millis>1459771980922</millis>
+  <sequence>2</sequence>
+  <logger>ares.fbk.eu.pMOEA.jmetal</logger>
+  <level>INFO</level>
+  <class>ares.fbk.eu.pMOEA.jmetal.metaheuristics.nsgaII.pNSGAII_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Objectives values have been writen to file FUN</message>
+</record>
+</log>
